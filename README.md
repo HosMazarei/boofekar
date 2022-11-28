@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boofekar
+- 👋 Hi, I’m @HosMazarei
 - 👀 I’m interested in Data Analysis, SQL, Tableau, python
 - 🌱 I’m currently learning Tableau, python
 - 💞️ I’m looking to collaborate on ...
